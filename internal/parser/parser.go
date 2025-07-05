@@ -21,7 +21,7 @@ type CollectionData struct {
 	Floor int 
 }
 
-const url = "https://proxy.thermos.gifts/api/v1/collections"
+const url = "API URL HERE"
 
 func ParseCollections() ([]CollectionData, error) {
 
